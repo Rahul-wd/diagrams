@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T12:18:58.581Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="FdpvUVWtREM-QZKKmT0X" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T14:37:58.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JdZo7CJ3MvHfxh0_Kjxd" version="16.0.3" type="github">
   <diagram id="-rVec7eW2op3CQ0jpk_b" name="Page-1">
-    <mxGraphModel dx="1422" dy="1976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1810" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,11 +44,13 @@
         <mxCell id="j4s7yhJeNqh5eXtyvdXT-14" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Setting env_vars&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="392" y="411" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="j4s7yhJeNqh5eXtyvdXT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j4s7yhJeNqh5eXtyvdXT-18" target="j4s7yhJeNqh5eXtyvdXT-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j4s7yhJeNqh5eXtyvdXT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="j4s7yhJeNqh5eXtyvdXT-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="-10" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="j4s7yhJeNqh5eXtyvdXT-18" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Start&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="415" y="90" width="100" height="100" as="geometry" />
+          <mxGeometry x="415" y="-180" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="oNUs9o0oUyTc4iyIB4Lq-1" value="no&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="318" width="30" height="20" as="geometry" />
@@ -308,7 +310,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVsSVfZ_GSpee006A9qn-52" value="&lt;font style=&quot;font-size: 36px&quot; face=&quot;Courier New&quot;&gt;Studio- 9 flow&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-120" width="670" height="60" as="geometry" />
+          <mxGeometry x="825" y="-360" width="670" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LxRrFexe9qCgd2F-RYDt-13" value="Deploy Online Prediction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1600" y="1480" width="210" height="50" as="geometry" />
@@ -363,8 +365,11 @@
         <mxCell id="LxRrFexe9qCgd2F-RYDt-34" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(0 , 0 , 0)&quot;&gt;stop dcos-local-universe-&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255)&quot;&gt;registry&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1767.5" y="1920" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oNUs9o0oUyTc4iyIB4Lq-29" value="souce env_vars/develop.sh&lt;br&gt;bash build.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="355" y="20" width="240" height="60" as="geometry" />
+        <mxCell id="xea0N7no9WLWztCnIJGL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNUs9o0oUyTc4iyIB4Lq-29" target="xea0N7no9WLWztCnIJGL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oNUs9o0oUyTc4iyIB4Lq-29" value="souce env_vars/develop.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="383" y="100" width="164" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oNUs9o0oUyTc4iyIB4Lq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oNUs9o0oUyTc4iyIB4Lq-32" target="oNUs9o0oUyTc4iyIB4Lq-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -380,6 +385,18 @@
         </mxCell>
         <mxCell id="oNUs9o0oUyTc4iyIB4Lq-37" value="Would you like to build the $STACKS(s3_buckets iam base) template?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="701.75" y="1000" width="263.25" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xea0N7no9WLWztCnIJGL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xea0N7no9WLWztCnIJGL-1" target="j4s7yhJeNqh5eXtyvdXT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xea0N7no9WLWztCnIJGL-1" value="bash build.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xea0N7no9WLWztCnIJGL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xea0N7no9WLWztCnIJGL-6" target="oNUs9o0oUyTc4iyIB4Lq-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xea0N7no9WLWztCnIJGL-6" value="check and&amp;nbsp;fulfill the prerequisite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="358" y="-10" width="214" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
