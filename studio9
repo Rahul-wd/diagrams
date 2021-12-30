@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T14:37:58.894Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="JdZo7CJ3MvHfxh0_Kjxd" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T16:11:00.797Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="_fn9UY4HaWx4gBa70Cun" version="16.1.2" type="github">
   <diagram id="-rVec7eW2op3CQ0jpk_b" name="Page-1">
-    <mxGraphModel dx="1810" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="2752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -365,7 +365,7 @@
         <mxCell id="LxRrFexe9qCgd2F-RYDt-34" value="&lt;div style=&quot;color: rgb(212 , 212 , 212) ; font-family: &amp;#34;droid sans mono&amp;#34; , &amp;#34;monospace&amp;#34; , monospace , &amp;#34;droid sans fallback&amp;#34; ; font-size: 14px ; line-height: 19px&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(0 , 0 , 0)&quot;&gt;stop dcos-local-universe-&lt;/span&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; background-color: rgb(255 , 255 , 255)&quot;&gt;registry&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1767.5" y="1920" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xea0N7no9WLWztCnIJGL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oNUs9o0oUyTc4iyIB4Lq-29" target="xea0N7no9WLWztCnIJGL-1">
+        <mxCell id="xea0N7no9WLWztCnIJGL-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oNUs9o0oUyTc4iyIB4Lq-29" target="xea0N7no9WLWztCnIJGL-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oNUs9o0oUyTc4iyIB4Lq-29" value="souce env_vars/develop.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -386,16 +386,16 @@
         <mxCell id="oNUs9o0oUyTc4iyIB4Lq-37" value="Would you like to build the $STACKS(s3_buckets iam base) template?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="701.75" y="1000" width="263.25" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="xea0N7no9WLWztCnIJGL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xea0N7no9WLWztCnIJGL-1" target="j4s7yhJeNqh5eXtyvdXT-7">
+        <mxCell id="xea0N7no9WLWztCnIJGL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xea0N7no9WLWztCnIJGL-1" target="j4s7yhJeNqh5eXtyvdXT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xea0N7no9WLWztCnIJGL-1" value="bash build.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="xea0N7no9WLWztCnIJGL-1" value="bash build.sh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="410" y="180" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xea0N7no9WLWztCnIJGL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xea0N7no9WLWztCnIJGL-6" target="oNUs9o0oUyTc4iyIB4Lq-29">
+        <mxCell id="xea0N7no9WLWztCnIJGL-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xea0N7no9WLWztCnIJGL-6" target="oNUs9o0oUyTc4iyIB4Lq-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xea0N7no9WLWztCnIJGL-6" value="check and&amp;nbsp;fulfill the prerequisite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="xea0N7no9WLWztCnIJGL-6" value="check and&amp;nbsp;fulfill the prerequisite" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="358" y="-10" width="214" height="40" as="geometry" />
         </mxCell>
       </root>
