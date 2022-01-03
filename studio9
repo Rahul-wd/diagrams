@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T10:15:42.216Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="0ewkspr42bAUzlhgGQSJ" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T10:29:53.733Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="eiQ95ftHK0KCRQUKU8h8" version="16.1.2" type="github">
   <diagram id="-rVec7eW2op3CQ0jpk_b" name="Page-1">
     <mxGraphModel dx="943" dy="2485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -397,13 +397,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BU4CWd47GicWeoRpv9LL-13" value="terraform modules" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="879" y="831.5" width="878" height="160" as="geometry" />
+          <mxGeometry x="879" y="831.5" width="511" height="160" as="geometry" />
         </mxCell>
         <mxCell id="BU4CWd47GicWeoRpv9LL-15" value="Backend S3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1640" y="850" width="80" height="20" as="geometry" />
+          <mxGeometry x="1260" y="870" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BU4CWd47GicWeoRpv9LL-16" value="terraform.tfstate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1630" y="880" width="100" height="20" as="geometry" />
+          <mxGeometry x="1240" y="922" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BU4CWd47GicWeoRpv9LL-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/analytic-investment-and-balanced-scorecard/512/443_Base_center_connection_data_hub_3d_print_printing-128.png" parent="1" vertex="1">
           <mxGeometry x="1153" y="872" width="72" height="72" as="geometry" />
@@ -426,17 +426,11 @@
         <mxCell id="BU4CWd47GicWeoRpv9LL-28" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="465" y="420" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_bh0UQE7U63ngCm4crMh-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_bh0UQE7U63ngCm4crMh-2" value="Would you like to build the vpc template" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1110" width="208" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="_bh0UQE7U63ngCm4crMh-3" value="nat" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1228" y="880.5" width="60" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="_bh0UQE7U63ngCm4crMh-6" value="online prediction" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="882.5" width="60" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="_bh0UQE7U63ngCm4crMh-7" value="redshift" style="rounded=1;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="884" width="60" height="55" as="geometry" />
+        <mxCell id="_bh0UQE7U63ngCm4crMh-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BU4CWd47GicWeoRpv9LL-13" target="BU4CWd47GicWeoRpv9LL-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
