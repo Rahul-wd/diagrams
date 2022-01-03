@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T10:36:37.018Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rki4fkDpk_uNE76pa3gn" version="16.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-03T10:43:52.497Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="_iqI-0D38A_D1qBbwCsq" version="16.1.2" type="github">
   <diagram id="-rVec7eW2op3CQ0jpk_b" name="Page-1">
     <mxGraphModel dx="1036" dy="1661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -428,7 +428,7 @@
         </mxCell>
         <mxCell id="6kJPL-vkI-iRRiTbaErF-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_bh0UQE7U63ngCm4crMh-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1094" y="1580" as="targetPoint" />
+            <mxPoint x="1094" y="2100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_bh0UQE7U63ngCm4crMh-2" value="Would you like to build the vpc template" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -466,8 +466,26 @@
         <mxCell id="6kJPL-vkI-iRRiTbaErF-10" value="Backend init/Provider plugin init/terraform fully init." style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="712.25" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6kJPL-vkI-iRRiTbaErF-12" target="6kJPL-vkI-iRRiTbaErF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6kJPL-vkI-iRRiTbaErF-12" value="Terraform Plan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="712.25" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6kJPL-vkI-iRRiTbaErF-14" target="6kJPL-vkI-iRRiTbaErF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-14" value="Plan saved to .tf plan file" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.25" y="1760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6kJPL-vkI-iRRiTbaErF-16" target="6kJPL-vkI-iRRiTbaErF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-16" value="Terraform apply" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.25" y="1900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6kJPL-vkI-iRRiTbaErF-18" value="Applies .tf plan" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="712.25" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
