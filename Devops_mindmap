@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T10:40:20.180Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bzJuw8Nx8fWcTygdTl-I" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T10:41:27.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jgStAj2BsvXawDSZkzey" version="20.1.1" type="github">
   <diagram id="jhttaU45kFmhAIb0YWcs" name="Page-1">
-    <mxGraphModel dx="4194" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4194" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -375,6 +375,9 @@
         </mxCell>
         <mxCell id="yFGmoYYnxpc_0K3OV76d-177" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;RBAC control&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#B0CFED;strokeColor=none;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="1110" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yFGmoYYnxpc_0K3OV76d-182" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/hourglass-128.png;fontSize=23;fontColor=#FFFCFD;fillColor=#E5CCFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="630" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
