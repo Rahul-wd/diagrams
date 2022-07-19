@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T10:41:27.917Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jgStAj2BsvXawDSZkzey" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T10:42:30.946Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="bZk3ATt-iQXH8vvRozS9" version="20.1.1" type="github">
   <diagram id="jhttaU45kFmhAIb0YWcs" name="Page-1">
-    <mxGraphModel dx="4194" dy="2472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4194" dy="2360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
         <mxCell id="yFGmoYYnxpc_0K3OV76d-173" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=28;fontColor=#FFFCFD;endArrow=none;endFill=0;strokeColor=#190033;strokeWidth=3;" edge="1" parent="1" source="yFGmoYYnxpc_0K3OV76d-1" target="yFGmoYYnxpc_0K3OV76d-172">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yFGmoYYnxpc_0K3OV76d-1" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000066&quot; style=&quot;font-size: 24px;&quot;&gt;DevOps&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#cce5ff;strokeColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="300" y="270" width="170" height="60" as="geometry" />
+        <mxCell id="yFGmoYYnxpc_0K3OV76d-1" value="&lt;div style=&quot;font-size: 38px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 38px;&quot;&gt;&lt;font color=&quot;#000066&quot; style=&quot;font-size: 38px;&quot;&gt;DevOps&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=right;fillColor=#cce5ff;strokeColor=none;fontStyle=1;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yFGmoYYnxpc_0K3OV76d-2" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/infinity-128.png;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="299" y="265" width="70" height="70" as="geometry" />
