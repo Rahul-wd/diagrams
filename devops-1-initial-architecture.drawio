@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T07:03:44.862Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="949V36fXnZ1o_L0zAygu" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T09:19:19.648Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="r8otlpDPFeIUHhl-ExWs" version="20.2.7" type="github">
   <diagram id="1C9WQ3AwD_l2FGvk-Ljh" name="Page-1">
-    <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2513" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
           <mxGeometry x="342.5" y="1046" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6iLja8leymD-v6mHz2or-115" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png;dashed=1;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=9;strokeColor=#000066;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-378" y="961" width="49" height="49" as="geometry" />
+          <mxGeometry x="-376" y="961" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6iLja8leymD-v6mHz2or-116" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/docker-128.png;dashed=1;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=9;strokeColor=#000066;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-150" y="961" width="19" height="19" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="-117" y="229" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6iLja8leymD-v6mHz2or-158" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.dns;labelBackgroundColor=none;labelBorderColor=none;fillStyle=solid;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-275" y="360" width="44.8" height="44.8" as="geometry" />
+          <mxGeometry x="-600" y="520" width="40" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6iLja8leymD-v6mHz2or-159" value="Frontend Pool" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-299" y="229" width="110" height="30" as="geometry" />
