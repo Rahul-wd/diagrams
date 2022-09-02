@@ -1,9 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-09-02T12:24:16.270Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="rgblgmrdmgBWzeBcDcpo" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-02T12:39:19.094Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W1TjP2dauo6WAzXmueuI" version="20.2.7" type="github">
   <diagram id="Vc97NO2stKfJkxD1irt4" name="Page-1">
-    <mxGraphModel dx="3684" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5321" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mEgj0ywOn9LZ4KnmK3P--1" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1880" y="110" width="1890" height="990" as="geometry" />
+        </mxCell>
+        <mxCell id="mEgj0ywOn9LZ4KnmK3P--2" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="mEgj0ywOn9LZ4KnmK3P--1">
+          <mxGeometry width="23" height="20" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="i-7Etx2vnNa-sSaX5qej-88" value="Customer&#39;s Cloud" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=none;strokeWidth=1;align=left;verticalAlign=top;spacingLeft=3;spacingTop=-4;" parent="1" vertex="1">
           <mxGeometry x="-570" y="510" width="555" height="470" as="geometry" />
         </mxCell>
