@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T06:14:08.187Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="RByRW7BV7GBeFV_M1mT0" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:24:07.994Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="CLdm3PSBzO16dcqPioUg" version="20.5.3" type="github">
   <diagram id="rJ24Ib028YJf0O-wBXgD" name="Page-1">
-    <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2317" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,16 +128,34 @@
         <mxCell id="EeX5WtFZPtttYQlt3ALt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#000000;" parent="1" source="EeX5WtFZPtttYQlt3ALt-12" target="EeX5WtFZPtttYQlt3ALt-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Bss8MtL9ZJmkgC45e6pI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.912;entryY=0.9;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;strokeWidth=3;fontColor=#4D4D4D;" edge="1" parent="1" target="EeX5WtFZPtttYQlt3ALt-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="349" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="349" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-12" value="inbound&amp;nbsp; 10.0.0.0/24&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=4;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="110" y="350" width="147" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;exitX=0.253;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.011;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="EeX5WtFZPtttYQlt3ALt-16" target="EeX5WtFZPtttYQlt3ALt-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Bss8MtL9ZJmkgC45e6pI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;fontColor=#4D4D4D;exitX=0.729;exitY=-0.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.991;entryY=0.318;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EeX5WtFZPtttYQlt3ALt-16" target="EeX5WtFZPtttYQlt3ALt-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="198" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-16" value="&lt;b&gt;Private DNS Resolver&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Private_Resolver.svg;labelBackgroundColor=none;fontColor=#808080;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="148" y="116" width="68" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.554;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;fontColor=#000000;" parent="1" source="EeX5WtFZPtttYQlt3ALt-17" target="EeX5WtFZPtttYQlt3ALt-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bss8MtL9ZJmkgC45e6pI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.649;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0066;strokeWidth=2;fontColor=#4D4D4D;" edge="1" parent="1" source="EeX5WtFZPtttYQlt3ALt-17" target="EeX5WtFZPtttYQlt3ALt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-17" value="&lt;b&gt;Azure DNS&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;labelBackgroundColor=none;fontColor=#808080;fillColor=none;" parent="1" vertex="1">
@@ -157,6 +175,9 @@
         </mxCell>
         <mxCell id="Bss8MtL9ZJmkgC45e6pI-2" value="&lt;font color=&quot;#4d4d4d&quot;&gt;conditional &lt;br&gt;DNS forwarding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#808080;labelBackgroundColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="975" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bss8MtL9ZJmkgC45e6pI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#CC0066;strokeWidth=2;fontColor=#4D4D4D;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="EeX5WtFZPtttYQlt3ALt-18" target="_d1QcIHTVX8e54rRVx2D-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
