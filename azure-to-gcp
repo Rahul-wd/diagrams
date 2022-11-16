@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T06:12:17.394Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="tZ-dIZ6LY1f18YirCVX9" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-16T06:13:02.256Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="pxEqYCyVSO6R1RkX9Dv0" version="20.5.3" type="github">
   <diagram id="rJ24Ib028YJf0O-wBXgD" name="Page-1">
     <mxGraphModel dx="2097" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,8 +70,11 @@
         <mxCell id="_d1QcIHTVX8e54rRVx2D-30" value="connection&lt;br&gt;(S2S IPsec)" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Connections.svg;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="408" y="390.64" width="35" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="Bss8MtL9ZJmkgC45e6pI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#4D4D4D;strokeWidth=3;strokeColor=#CC0066;" edge="1" parent="1" source="_d1QcIHTVX8e54rRVx2D-36" target="EeX5WtFZPtttYQlt3ALt-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_d1QcIHTVX8e54rRVx2D-36" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Machine.svg;labelBackgroundColor=none;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1080" y="377.27" width="60.87" height="56" as="geometry" />
+          <mxGeometry x="1100" y="364" width="60.87" height="56" as="geometry" />
         </mxCell>
         <mxCell id="EeX5WtFZPtttYQlt3ALt-1" value="Vnet&amp;nbsp; (Central US)&lt;br&gt;10.8.0.0/16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-543.5" y="250" width="417" height="350" as="geometry" />
@@ -145,7 +148,7 @@
           <mxGeometry x="-560" y="30" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Bss8MtL9ZJmkgC45e6pI-1" value="DNS query&lt;br&gt;*&lt;span style=&quot;font-size: 11px;&quot;&gt;.azmk8s.io&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="376.11" width="80" height="40" as="geometry" />
+          <mxGeometry x="1005" y="385.64" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bss8MtL9ZJmkgC45e6pI-2" value="&lt;font color=&quot;#4d4d4d&quot;&gt;conditional &lt;br&gt;DNS forwarding&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#808080;labelBackgroundColor=#FF66B3;" vertex="1" parent="1">
           <mxGeometry x="975" y="420" width="110" height="40" as="geometry" />
