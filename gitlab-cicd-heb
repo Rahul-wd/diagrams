@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-06T14:30:17.335Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="zt90jM3A2llDxpHy1ip1" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-06T15:12:31.190Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="bCBghVFHQQJKdhdZ9GUo" version="20.8.1" type="github">
   <diagram id="-tKfyLMX8gytiGdX55t7" name="Page-1">
     <mxGraphModel dx="2109" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="170" y="38.333333333333336" width="32.32266666666666" height="23" as="geometry" />
         </mxCell>
         <mxCell id="sLTI4RqLF_sghNM5Bak3-116" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="735" y="-310.00000000000006" width="280" height="220.00000000000006" as="geometry" />
+          <mxGeometry x="735" y="-320.00000000000006" width="280" height="220.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="sLTI4RqLF_sghNM5Bak3-111" value="Secrets-Pool" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E3E3E3;strokeColor=#23445d;strokeWidth=1;fontSize=13;container=0;" parent="sLTI4RqLF_sghNM5Bak3-116" vertex="1">
           <mxGeometry x="10" y="10.000000000000057" width="270" height="210" as="geometry" />
@@ -144,7 +144,7 @@
           <mxGeometry x="56.99666666666667" y="46.16" width="18" height="17.68" as="geometry" />
         </mxCell>
         <mxCell id="sLTI4RqLF_sghNM5Bak3-141" value="1. When developer push the commits it will trigger the build &amp;amp; test&lt;br&gt;&lt;br&gt;2. When developer push the tag commit then it will trigger the build push &amp;amp; deploy jobs." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=27;pointerEvents=1;labelBackgroundColor=none;strokeWidth=1;fontSize=13;align=left;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="60" y="-40" width="221" height="160" as="geometry" />
+          <mxGeometry x="45" y="-70" width="221" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sLTI4RqLF_sghNM5Bak3-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" parent="1" source="sLTI4RqLF_sghNM5Bak3-86" target="sLTI4RqLF_sghNM5Bak3-108" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -179,9 +179,11 @@
         <mxCell id="j1UUl_KFd4FttBZRLHq0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="j1UUl_KFd4FttBZRLHq0-12" source="j1UUl_KFd4FttBZRLHq0-1" target="j1UUl_KFd4FttBZRLHq0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j1UUl_KFd4FttBZRLHq0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="j1UUl_KFd4FttBZRLHq0-12" source="j1UUl_KFd4FttBZRLHq0-5" target="j1UUl_KFd4FttBZRLHq0-3">
+        <mxCell id="j1UUl_KFd4FttBZRLHq0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="j1UUl_KFd4FttBZRLHq0-12" source="j1UUl_KFd4FttBZRLHq0-5" target="j1UUl_KFd4FttBZRLHq0-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="214" y="80" />
+              <mxPoint x="214" y="69" />
               <mxPoint x="260" y="69" />
             </Array>
           </mxGeometry>
@@ -219,7 +221,7 @@
             <mxPoint x="790" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j1UUl_KFd4FttBZRLHq0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;" edge="1" parent="1" target="sLTI4RqLF_sghNM5Bak3-138">
+        <mxCell id="j1UUl_KFd4FttBZRLHq0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000000;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sLTI4RqLF_sghNM5Bak3-111" target="sLTI4RqLF_sghNM5Bak3-138">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="985" y="-90" as="sourcePoint" />
           </mxGeometry>
