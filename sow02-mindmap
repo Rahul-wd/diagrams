@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:31:32.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lCajqu86WadVK-rYAuU3" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T10:17:48.681Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="L8KSt3Ysw_tZu4ldDCGn" version="20.8.8" type="github">
   <diagram name="Page-1" id="mP02K18D4LVokvmYPla3">
-    <mxGraphModel dx="2109" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,33 @@
         </mxCell>
         <mxCell id="4NrTmrdinpfz-73nthHJ-22" value="Things to keep in mind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;labelBackgroundColor=#FFE599;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
           <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-32" value="Full Stack observability - Cloud, platform &amp;amp; App" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-33" value="Open Telemetry Integration" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="430" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-34" value="Alerting - Event consolidation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="580" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-35" value="Serverless Monitoring Setup (AZ functions)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="550" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-36" value="Application Insights" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-37" value="Solution to Dynatrace limitations" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="460" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-38" value="Metrics, logs Analytics &amp;amp; trace Implementation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="490" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-39" value="Monitoring - source aggregation movement to Splunk" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="610" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-40" value="Loging &amp;amp; metrics - App &amp;amp; Infra - to Splunk" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="800" y="640" width="320" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
