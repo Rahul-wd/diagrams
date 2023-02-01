@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T08:03:08.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="R_PP00-54oCyQeSa_HEe" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:31:32.123Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="lCajqu86WadVK-rYAuU3" version="20.8.8" type="github">
   <diagram name="Page-1" id="mP02K18D4LVokvmYPla3">
     <mxGraphModel dx="2109" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -83,9 +83,9 @@
           <mxGeometry x="-381" y="370" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4NrTmrdinpfz-73nthHJ-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-600" y="-118" width="375" height="210" as="geometry" />
+          <mxGeometry x="-594" y="-118" width="375" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="4NrTmrdinpfz-73nthHJ-21" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is Important to Note is that we want to be Cloud Independent, for example in the case of monitoring Azure functions we don&#39;t want to be dependent on Azure Monitor, Neither ELK , EFK , and nor Side car proxy too.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;So everything has to move back to Splunk Cloud&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;spacingLeft=-20;spacingTop=-11;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
+        <mxCell id="4NrTmrdinpfz-73nthHJ-21" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is Important to Note is that we want to be Cloud Independent, for example in the case of monitoring Azure functions we don&#39;t want to be dependent on Azure Monitor, Neither ELK , EFK , and nor Side car proxy too.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;So everything has to move back to Splunk Cloud&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=19;pointerEvents=1;align=left;verticalAlign=top;spacingLeft=-20;spacingTop=-11;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
           <mxGeometry x="5" y="30" width="370" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4NrTmrdinpfz-73nthHJ-22" value="Things to keep in mind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;labelBackgroundColor=#FFE599;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
