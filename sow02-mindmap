@@ -1,14 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T07:08:13.351Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AjqkFeC6Oh3-D2xaDNXS" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T08:03:08.724Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="R_PP00-54oCyQeSa_HEe" version="20.8.8" type="github">
   <diagram name="Page-1" id="mP02K18D4LVokvmYPla3">
-    <mxGraphModel dx="1259" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2109" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4NrTmrdinpfz-73nthHJ-2" value="SOW02" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="290" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4NrTmrdinpfz-73nthHJ-3" value="Observability" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="80" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="4NrTmrdinpfz-73nthHJ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-24" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-26" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-28" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="4NrTmrdinpfz-73nthHJ-3" target="4NrTmrdinpfz-73nthHJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-3" value="Observability" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4NrTmrdinpfz-73nthHJ-4" value="Infra provision" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
@@ -18,6 +45,51 @@
         </mxCell>
         <mxCell id="4NrTmrdinpfz-73nthHJ-6" value="Architecture" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="550" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-7" value="Full Stack observability - Cloud, platform &amp;amp; App" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="130" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-215" y="-118" width="375" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-8" value="&lt;div&gt;&lt;ol&gt;&lt;li&gt;Open telemetry&amp;nbsp;&lt;/li&gt;&lt;li&gt;Whatever Dynatrace can not do, we should be able to achieve that as well. - serverless challenges&amp;nbsp;&lt;/li&gt;&lt;li&gt;Avoid dependency on Cloud - maybe tomorrow we might have GCP or AWS&amp;nbsp;&lt;/li&gt;&lt;li&gt;This has to be an iterative model - here comes your event hub etc&amp;nbsp;&lt;/li&gt;&lt;li&gt;We might end up using application insights because I don&#39;t think I have an alternative without cloud service on that, not sure, need to check&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;spacingLeft=-20;spacingTop=-11;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-10">
+          <mxGeometry x="5" y="30" width="370" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-9" value="Things to keep in mind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;labelBackgroundColor=#FFE599;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-10">
+          <mxGeometry width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-11" value="Open Telemetry Integration" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="160" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-12" value="Alerting - Event consolidation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="310" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-13" value="Serverless Monitoring Setup (AZ functions)" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="280" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-14" value="Application Insights" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="250" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-15" value="Solution to Dynatrace limitations" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="190" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-16" value="Metrics, logs Analytics &amp;amp; trace Implementation" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="220" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-18" value="Monitoring - source aggregation movement to Splunk" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="340" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-19" value="Loging &amp;amp; metrics - App &amp;amp; Infra - to Splunk" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="370" width="320" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-20" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-600" y="-118" width="375" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-21" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;What is Important to Note is that we want to be Cloud Independent, for example in the case of monitoring Azure functions we don&#39;t want to be dependent on Azure Monitor, Neither ELK , EFK , and nor Side car proxy too.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;So everything has to move back to Splunk Cloud&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;align=left;verticalAlign=top;spacingLeft=-20;spacingTop=-11;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
+          <mxGeometry x="5" y="30" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4NrTmrdinpfz-73nthHJ-22" value="Things to keep in mind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;labelBackgroundColor=#FFE599;" vertex="1" parent="4NrTmrdinpfz-73nthHJ-20">
+          <mxGeometry width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
